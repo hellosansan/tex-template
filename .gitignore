@@ -1,0 +1,25 @@
+# for macOS
+**/.DS_Store
+
+# for tex
+**/*.aux
+**/*.bbl
+**/*.blg
+**/*.fdb_latexmk
+**/*.fls
+**/*.lof
+**/*.ls
+**/*.nav
+**/*.out
+**/*.snm
+**/*.synctex.gz
+**/*.toc
+**/*.xdv
+**/*.*(busy)
+
+# for python
+**/*.pyc
+**/__pycache__
+
+# others
+**/*.pdf
