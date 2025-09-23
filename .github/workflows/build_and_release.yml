@@ -17,6 +17,7 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+          ref: main
           token: ${{ secrets.PAT }}
 
       - name: Update submodule to latest commit
